@@ -1,0 +1,164 @@
+{
+  "updatedAt": "2026-10-31",
+  "kakaoChatUrl": "https://open.kakao.com/o/gLOlT0Ui",
+  "claims": [
+    {
+      "id": "claim-001",
+      "name": "조*배",
+      "damageDate": "2026-10-21",
+      "amount": 4500000,
+      "story": ""
+    },
+    {
+      "id": "claim-002",
+      "name": "**아버지",
+      "damageDate": "불명",
+      "amount": 1200000,
+      "story": ""
+    },
+    {
+      "id": "claim-003",
+      "name": "이*혁",
+      "damageDate": "2026-10-22",
+      "amount": 800000,
+      "story": "10/25까지 갚기로 하였으나 당일되자 300만원 더 빌려달라고 함"
+    },
+    {
+      "id": "claim-004",
+      "name": "김*규",
+      "damageDate": "2026-10-21",
+      "amount": 700000,
+      "story": "금전외 현물 10만원 더 있음"
+    },
+    {
+      "id": "claim-005",
+      "name": "김*",
+      "damageDate": "2026-10-21",
+      "amount": 600000,
+      "story": "설마 그렇게 저능한짓을 하겠나? 하는 마음에 빌려줌, 처음부터 60만원 요구"
+    },
+    {
+      "id": "claim-006",
+      "name": "이*철",
+      "damageDate": "2026-10-23",
+      "amount": 500000,
+      "story": "30만원 빌리고 잠시 후 20만원 추가로 빌려달라고함"
+    },
+    {
+      "id": "claim-011",
+      "name": "이*기",
+      "damageDate": "2026-10-25",
+      "amount": 300000,
+      "story": "세금 문제라고.."
+    },
+    {
+      "id": "claim-007",
+      "name": "박*서",
+      "damageDate": "2026-10-25",
+      "amount": 400000,
+      "story": ""
+    },
+    {
+      "id": "claim-008",
+      "name": "윤*기",
+      "damageDate": "불명",
+      "amount": 300000,
+      "story": ""
+    },
+    {
+      "id": "claim-009",
+      "name": "**아버지",
+      "damageDate": "2026-10-30",
+      "amount": 300000,
+      "story": "연락이 와서 없는셈 치고 빌려줌"
+    },
+    {
+      "id": "claim-010",
+      "name": "김*우",
+      "damageDate": "2026-10-30",
+      "amount": 10000,
+      "story": "섭섭클럽 탈출을 위해 먼저 연락 하여 훈지"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "contact-001",
+      "name": "고*휘",
+      "contactDate": "2026-10-10",
+      "contactMethod": "불명",
+      "summary": "10/31 에 또 연락옴"
+    },
+    {
+      "id": "contact-002",
+      "name": "이*열",
+      "contactDate": "2026-10-10",
+      "contactMethod": "카톡",
+      "summary": ""
+    },
+    {
+      "id": "contact-003",
+      "name": "이*민",
+      "contactDate": "2026-10-10",
+      "contactMethod": "불명",
+      "summary": "있는돈 다 빌려달라고.."
+    },
+    {
+      "id": "contact-004",
+      "name": "전*찬",
+      "contactDate": "불명",
+      "contactMethod": "불명",
+      "summary": "아주 많은 돈이 필요하다고.."
+    },
+    {   
+      "id": "contact-005",
+      "name": "우*태",
+      "contactDate": "불명",
+      "contactMethod": "불명",
+      "summary": "군적금 담보로 대출 요구"
+    },
+    {
+      "id": "contact-006",
+      "name": "김*경",
+      "contactDate": "2026-10-25",
+      "contactMethod": "불명",
+      "summary": "100 빌려 주면 200 으로 갚겠다고.."
+    }
+  ],
+  "seopseopClub": [
+    {
+      "id": "seopseop-001",
+      "name": "권**",
+      "story": "나랑 친하다고 생각했는데, 얘기도 자주하고 밥도 먹었지만.."
+    },
+    {
+      "id": "seopseop-002",
+      "name": "김**",
+      "story": "절친한 친구여서 연락 안한것으로 보임"
+    },
+    {
+      "id": "seopseop-005",
+      "name": "박정우",
+      "story": "군대 잘갔다와 건강해라 -정윤아빠"
+    },
+    {
+      "id": "seopseop-006",
+      "name": "임**",
+      "story": "많이 섭섭함.."
+    },
+    {
+      "id": "seopseop-007",
+      "name": "이**",
+      "story": "코리때 먼저 인사 걸어왔는데 대출 대신 성적 물어봐서 섭섭.."
+    },
+    {
+      "id": "seopseop-008",
+      "name": "김**",
+      "story": "내심 연락오길 기다렸는데 안와서 섭섭"
+    },
+    {
+      "id": "seopseop-009",
+      "name": "오**",
+      "story": "솔직히 연락 왔으면 고민 좀 해봤을텐데 안와서 섭섭"
+    }
+  ]
+}
